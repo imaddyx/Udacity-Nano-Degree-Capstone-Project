@@ -1,6 +1,6 @@
 # Data Scientist Capstone Project
 
-You can read the article from this [link]().
+You can read the article from this [link](https://medium.com/@bcsf14.28/starbucks-offer-data-analysis-247d1d629637).
 
 You can check the jupyter notebook in the `Data_Scientist_Capstone_Project.ipynb` to get the full code.
 
